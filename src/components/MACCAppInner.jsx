@@ -786,14 +786,14 @@ export default function MACCAppInner() {
         />
 
         {/* Methodology */}
-        <section className="bg-white rounded-xl shadow-lg border border-gray-100 p-6">
+        {/* <section className="bg-white rounded-xl shadow-lg border border-gray-100 p-6">
           <h2 className="text-xl font-semibold mb-3 text-gray-800 border-b border-gray-200 pb-2">Methodology</h2>
           <ul className="list-disc pl-5 text-sm space-y-2 text-gray-700"> 
             <li>Costs include drivers + opex + other − savings + financed annuity; upfront capex is added as that year’s cash flow.</li>
             <li>NPV are computed from yearly cash flows (with/without carbon price) discounted at the real rate.</li>
             <li>Firm data and catalogs are stored locally per firm and portable via JSON export/import.</li>
           </ul>
-        </section>
+        </section> */}
 
         <footer className="text-xs text-gray-500 text-center pb-8">© 2025 India CCTS MACC Builder. All rights reserved.</footer>
       </div>

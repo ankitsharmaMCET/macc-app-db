@@ -260,7 +260,7 @@ export default function MACCChart({
     <section className="bg-white rounded-xl shadow-lg border border-gray-100 p-6 space-y-4">
       <div className="flex items-center justify-between gap-3">
         <h2 className="text-xl font-semibold text-gray-800">
-          Sectoral MACC — Marginal Abatement Cost Curve
+          Sectoral MACC  — Marginal Abatement Cost Curve
         </h2>
         <div className="flex items-center gap-3">
           {/* Currency toggle */}
