@@ -8,7 +8,7 @@ id,name,sector,abatement_tco2,cost_per_tco2_usd,cost_per_tco2,selected,details
 7,High quality imported coal use,Steel,5000000,23,1840,TRUE,"{""mode"":""quick""}"
 8,Coal-based CPP/grid to RE,Steel,39715000,41,3280,TRUE,"{""mode"":""quick""}"
 9,DRI char WHR power,Steel,875000,46,3680,TRUE,"{""mode"":""quick""}"
-10,CCS,Steel,147600000,94,7520,TRUE,"{""mode"":""quick""}"
+10,CCS,Steel,147600000,101,8080,TRUE,"{""mode"":""quick""}"
 11,NG injection in BF,Steel,6780000,97,7760,TRUE,"{""mode"":""quick""}"
 12,CCU,Steel,32315000,472,37760,TRUE,"{""mode"":""quick""}"
 13,Carbon offset (afforestation),Steel,51245000,533,42640,TRUE,"{""mode"":""quick""}"
